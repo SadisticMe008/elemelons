@@ -1,0 +1,11 @@
+{
+  "item_group.elemelons.main": "Elemelons",
+
+  "item.elemelons.earth_melon": "Earth Melon",
+  "item.elemelons.fire_melon": "Fire Melon",
+  "item.elemelons.water_melon": "Water Melon",
+  "item.elemelons.wind_melon": "Wind Melon",
+  "item.elemelons.traders_melon": "Trader's Melon",
+  "item.elemelons.miners_melon": "Miner's Melon",
+  "item.elemelons.saturated_melon": "Saturated Melon"
+}

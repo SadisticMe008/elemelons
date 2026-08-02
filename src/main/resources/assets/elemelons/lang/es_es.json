@@ -1,0 +1,11 @@
+{
+  "item_group.elemelons.main": "Elemelons",
+
+  "item.elemelons.earth_melon": "Sandía de tierra",
+  "item.elemelons.fire_melon": "Sandía de fuego",
+  "item.elemelons.water_melon": "Sandía de agua",
+  "item.elemelons.wind_melon": "Sandía de viento",
+  "item.elemelons.traders_melon": "Sandía de los Comerciantes",
+  "item.elemelons.miners_melon": "Sandía de los Mineros",
+  "item.elemelons.saturated_melon": "Sandía saturada"
+}
