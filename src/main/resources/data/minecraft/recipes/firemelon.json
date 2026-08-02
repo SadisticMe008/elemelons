@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "MMM",
+    "MNM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:melon_slice"
+    },
+    "N": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "item": "elemelons:fire_melon",
+    "count": 8
+  }
+}

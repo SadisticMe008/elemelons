@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "MMM",
+    "MIM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:melon_slice"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "elemelons:miners_melon",
+    "count": 8
+  }
+}
