@@ -2,10 +2,39 @@
   "item_group.elemelons.main": "Elemelons",
 
   "item.elemelons.earth_melon": "Sandía de tierra",
+  "item.elemelons.earth_melon.tooltip": [
+    "§9Velocidad II (00:30)",
+    "§9Salto III (00:30)"
+  ],
   "item.elemelons.fire_melon": "Sandía de fuego",
+  "item.elemelons.fire_melon.tooltip": [
+    "§9Resistencia al fuego (00:30)",
+    "§9Fuerza III (00:30)",
+    "§9Absorción IV (00:30, 15%)"
+  ],
   "item.elemelons.water_melon": "Sandía de agua",
+  "item.elemelons.water_melon.tooltip": [
+    "§9Gracia del Delfín III (00:30)",
+    "§9Poder del Conduit (00:30)"
+  ],
   "item.elemelons.wind_melon": "Sandía de viento",
+  "item.elemelons.wind_melon.tooltip": [
+    "§9Velocidad V (00:30)",
+    "§9Regeneración III (00:05)",
+    "§9Saturación II (00:30, 5%)"
+  ],
   "item.elemelons.traders_melon": "Sandía de los Comerciantes",
+  "item.elemelons.traders_melon.tooltip": [
+    "§aHéroe de la Aldea V (00:30)",
+    "§aSuerte V (00:30)"
+  ],
   "item.elemelons.miners_melon": "Sandía de los Mineros",
-  "item.elemelons.saturated_melon": "Sandía saturada"
+  "item.elemelons.miners_melon.tooltip": [
+    "§9Prisa III (00:30)",
+    "§9Visión Nocturna (00:30)"
+  ],
+  "item.elemelons.saturated_melon": "Sandía saturada",
+  "item.elemelons.saturated_melon.tooltip": [
+    "§9Saturación II (00:30)"
+  ]
 }
