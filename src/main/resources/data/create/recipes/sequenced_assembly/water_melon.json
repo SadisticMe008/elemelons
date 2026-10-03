@@ -1,0 +1,35 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:watermelon"
+  },
+  "loops": 5,
+  "results": [
+    {
+      "item": "elemelons:water_melon"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:mixing",
+      "ingredients": [
+        {
+          "item": "minecraft:watermelon"
+        },
+        {
+          "amount": 1000,
+          "fluid": "minecraft:water",
+          "nbt": {}
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:watermelon"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "minecraft:watermelon"
+  }
+}

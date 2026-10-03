@@ -2,39 +2,17 @@
   "item_group.elemelons.main": "Elemelons",
 
   "item.elemelons.earth_melon": "Earth Melon",
-  "item.elemelons.earth_melon.tooltip": [
-    "§9Speed II (00:30)",
-    "§9Jump III (00:30)"
-  ],
+  "item.elemelons.earth_melon.tooltip": "\n§9Speed II (00:30)\n§9Jump III (00:30)",
   "item.elemelons.fire_melon": "Fire Melon",
-  "item.elemelons.fire_melon.tooltip": [
-    "§9Fire Resistance (00:30)",
-    "§9Strength III (00:30)",
-    "§9Absorption IV (00:30, 15%)"
-  ],
+  "item.elemelons.fire_melon.tooltip": "\n§9Fire Resistance (00:30)\n§9Strength III (00:30)\n§9Absorption IV (00:30, 15%)",
   "item.elemelons.water_melon": "Water Melon",
-  "item.elemelons.water_melon.tooltip": [
-    "§9Dolphin's Grace III (00:30)",
-    "§9Conduit Power (00:30)"
-  ],
+  "item.elemelons.water_melon.tooltip": "\n§9Dolphin's Grace III (00:30)\n§9Conduit Power (00:30)",
   "item.elemelons.wind_melon": "Wind Melon",
-  "item.elemelons.wind_melon.tooltip": [
-    "§9Speed V (00:30)",
-    "§9Regeneration III (00:05)",
-    "§9Saturation II (00:30, 5%)"
-  ],
+  "item.elemelons.wind_melon.tooltip": "\n§9Speed V (00:30)\n§9Regeneration III (00:05)\n§9Saturation II (00:30, 5%)",
   "item.elemelons.traders_melon": "Trader's Melon",
-  "item.elemelons.traders_melon.tooltip": [
-    "§aHero of the Village V (00:30)",
-    "§aLuck V (00:30)"
-  ],
+  "item.elemelons.traders_melon.tooltip": "\n§aHero of the Village V (00:30)\n§aLuck V (00:30)",
   "item.elemelons.miners_melon": "Miner's Melon",
-  "item.elemelons.miners_melon.tooltip": [
-    "§9Haste III (00:30)",
-    "§9Night Vision (00:30)"
-  ],
+  "item.elemelons.miners_melon.tooltip": "\n§9Haste III (00:30)\n§9Night Vision (00:30)",
   "item.elemelons.saturated_melon": "Saturated Melon",
-  "item.elemelons.saturated_melon.tooltip": [
-    "§9Saturation II (00:30)"
-  ]
+  "item.elemelons.saturated_melon.tooltip": "\n§9Saturation II (00:30)"
 }

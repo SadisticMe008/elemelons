@@ -51,13 +51,13 @@ public class Elemelons {
     public static final RegistryObject<Item> EXAMPLE_ITEM = ITEMS.register("example_item", () -> new Item(new Item.Properties().food(new FoodProperties.Builder()
             .alwaysEat().nutrition(1).saturationMod(2f).build()))); **/
 
-    public static final RegistryObject<Item> EARTH_MELON = ITEMS.register("earth_melon", () -> new Item(EarthMelon.ITEM_PROPERTIES));
-    public static final RegistryObject<Item> FIRE_MELON = ITEMS.register("fire_melon", () -> new Item(FireMelon.ITEM_PROPERTIES));
-    public static final RegistryObject<Item> WATER_MELON = ITEMS.register("water_melon", () -> new Item(WaterMelon.ITEM_PROPERTIES));
-    public static final RegistryObject<Item> WIND_MELON = ITEMS.register("wind_melon", () -> new Item(WindMelon.ITEM_PROPERTIES));
-    public static final RegistryObject<Item> TRADERS_MELON = ITEMS.register("traders_melon", () -> new Item(TradersMelon.ITEM_PROPERTIES));
-    public static final RegistryObject<Item> MINERS_MELON = ITEMS.register("miners_melon", () -> new Item(MinersMelon.ITEM_PROPERTIES));
-    public static final RegistryObject<Item> SATURATED_MELON = ITEMS.register("saturated_melon", () -> new Item(SaturatedMelon.ITEM_PROPERTIES));
+    public static final RegistryObject<Item> EARTH_MELON = ITEMS.register("earth_melon", () -> new EarthMelon(EarthMelon.ITEM_PROPERTIES));
+    public static final RegistryObject<Item> FIRE_MELON = ITEMS.register("fire_melon", () -> new FireMelon(FireMelon.ITEM_PROPERTIES));
+    public static final RegistryObject<Item> WATER_MELON = ITEMS.register("water_melon", () -> new WaterMelon(WaterMelon.ITEM_PROPERTIES));
+    public static final RegistryObject<Item> WIND_MELON = ITEMS.register("wind_melon", () -> new WindMelon(WindMelon.ITEM_PROPERTIES));
+    public static final RegistryObject<Item> TRADERS_MELON = ITEMS.register("traders_melon", () -> new TradersMelon(TradersMelon.ITEM_PROPERTIES));
+    public static final RegistryObject<Item> MINERS_MELON = ITEMS.register("miners_melon", () -> new MinersMelon(MinersMelon.ITEM_PROPERTIES));
+    public static final RegistryObject<Item> SATURATED_MELON = ITEMS.register("saturated_melon", () -> new SaturatedMelon(SaturatedMelon.ITEM_PROPERTIES));
 
 
     public static final RegistryObject<CreativeModeTab> ELEMELONS_TAB = CREATIVE_MODE_TABS.register("elemelons", () -> CreativeModeTab.builder()
