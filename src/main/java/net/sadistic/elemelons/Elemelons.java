@@ -34,7 +34,7 @@ public class Elemelons {
     public static final RegistryObject<Item> WIND_MELON = ITEMS.register("wind_melon", () -> new WindMelon(WindMelon.ITEM_PROPERTIES));
     public static final RegistryObject<Item> TRADERS_MELON = ITEMS.register("traders_melon", () -> new TradersMelon(TradersMelon.ITEM_PROPERTIES));
     public static final RegistryObject<Item> MINERS_MELON = ITEMS.register("miners_melon", () -> new MinersMelon(MinersMelon.ITEM_PROPERTIES));
-    public static final RegistryObject<Item> SATURATED_MELON = ITEMS.register("saturated_melon", () -> new SaturatedMelon(SaturatedMelon.ITEM_PROPERTIES));
+    //public static final RegistryObject<Item> SATURATED_MELON = ITEMS.register("saturated_melon", () -> new SaturatedMelon(SaturatedMelon.ITEM_PROPERTIES));
 
 
     public static final RegistryObject<CreativeModeTab> ELEMELONS_TAB = CREATIVE_MODE_TABS.register("elemelons", () -> CreativeModeTab.builder()
@@ -47,7 +47,7 @@ public class Elemelons {
                 output.accept(WIND_MELON.get());
                 output.accept(TRADERS_MELON.get());
                 output.accept(MINERS_MELON.get());
-                output.accept(SATURATED_MELON.get());
+                //output.accept(SATURATED_MELON.get());
             })
             .build());
 

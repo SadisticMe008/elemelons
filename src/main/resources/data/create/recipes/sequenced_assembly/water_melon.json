@@ -1,7 +1,7 @@
 {
   "type": "create:sequenced_assembly",
   "ingredient": {
-    "item": "minecraft:watermelon"
+    "item": "minecraft:melon"
   },
   "loops": 5,
   "results": [
@@ -14,7 +14,7 @@
       "type": "create:mixing",
       "ingredients": [
         {
-          "item": "minecraft:watermelon"
+          "item": "minecraft:melon"
         },
         {
           "amount": 1000,
@@ -24,12 +24,12 @@
       ],
       "results": [
         {
-          "item": "minecraft:watermelon"
+          "item": "minecraft:melon"
         }
       ]
     }
   ],
   "transitionalItem": {
-    "item": "minecraft:watermelon"
+    "item": "minecraft:melon"
   }
 }
